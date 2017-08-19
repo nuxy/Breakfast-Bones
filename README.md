@@ -1,18 +1,14 @@
 # Breakfast Bones
 
-The Double-Bacon Card Game _is now free_.
-
-Print it. Play it - eating breakfast.
+The Double-Bacon Card Game _is now free_.  Print it.  Play it with your friends.
 
 [<img src="http://breakfastbones.com/images/Breakfast-Bones-The-Double-Bacon-Card-Game.png" alt="Breakfast-Bones" />](http://breakfastbones.com)
 
-## Don't want to print?
+## Don't have a printer?
 
-If you're interested in purchasing the domino deck version (as pictured above), and you _reside in the continental United States_, I'm selling them for $12 each (FREE shipping) with one condition.  I only accept payment in [Litecoin](https://litecoin.com), so..  If you're **still** interested, send payment to the [Litecoin](https://litecoin.com) wallet address below (with your **full name and address** in the message). Once the blockchain transaction is confirmed on my end I will expedite the shipment.
+I'm selling retail version of this game for $10 in LTC (includes FREE shipping in the continental United States).
 
-### Litecoin
-
-    LWBwUHs2K8VSiCVdrBsynry78YNgnXnWaM
+If interested, please send a [Litecoin](https://litecoin.com) payment to `LWBwUHs2K8VSiCVdrBsynry78YNgnXnWaM` and make sure to provide your **full name and address** in the message.  Once the blockchain transaction is confirmed on my end I will expedite the shipment.
 
 ## License and Warranty
 
