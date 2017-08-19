@@ -1,6 +1,8 @@
 # Breakfast Bones
 
-The Double-Bacon Card Game _is now free_.  Print it.  Play it with your friends.
+The Double-Bacon Card Game _is now free_.
+
+Print it.  Play it with your friends.
 
 [<img src="http://breakfastbones.com/images/Breakfast-Bones-The-Double-Bacon-Card-Game.png" alt="Breakfast-Bones" />](http://breakfastbones.com)
 
@@ -8,7 +10,11 @@ The Double-Bacon Card Game _is now free_.  Print it.  Play it with your friends.
 
 I'm selling retail version of this game for $10 in LTC (includes FREE shipping in the continental United States).
 
-If interested, please send a [Litecoin](https://litecoin.com) payment to `LWBwUHs2K8VSiCVdrBsynry78YNgnXnWaM` and make sure to provide your **full name and address** in the message.  Once the blockchain transaction is confirmed on my end I will expedite the shipment.
+If interested, send your [Litecoin](https://litecoin.com) payment to the address below.  Make sure to provide your **full name and address** in the sent message.  Once the blockchain transaction is confirmed on my end I will expedite the shipment.
+
+    Litecoin: LWBwUHs2K8VSiCVdrBsynry78YNgnXnWaM
+
+[<img src="http://breakfastbones.com/images/litecoin-qr.gif" alt="Litecoin: LWBwUHs2K8VSiCVdrBsynry78YNgnXnWaM" />](https://litecoin.com)
 
 ## License and Warranty
 
@@ -19,7 +25,3 @@ _Breakfast_Bones_ is provided under the terms of the [Creative Commons - Attribu
 _Breakfast_Bones_ is a registered trademark of Nuxy LLC
 
 Copyright ©2015 Nuxy LLC. VA 2-001-446
-
-## Author
-
-[Marc S. Brooks](https://github.com/nuxy)
